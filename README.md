@@ -1,1 +1,1 @@
-# sendbird
+# sendbird api test
