@@ -1,1 +1,5 @@
-# sendbird api test
+## Sendbird Api Test
+
+```bash
+npm run dev
+```
